@@ -7,17 +7,11 @@
     transform: translateY(-2560px);
   }
 }
-body {
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
 
 .space {
   position: relative;
   width: 100vw;
   height: 100vh;
-  background: black!important;
 }
 
 .particle,
